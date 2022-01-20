@@ -5,4 +5,4 @@
 - 📫 How to reach me: through my website -> https://ilyxa05.ml/
 - ⚡ Fun fact: I'm not an idiot, I'm from Samara
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+![ilyxa05 profile stats](https://github-readme-stats.vercel.app/api?username=llyxa05&show_icons=true&theme=gruvbox)
