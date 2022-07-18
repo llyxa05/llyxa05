@@ -1,0 +1,120 @@
+body {
+    padding: 0;
+    overflow: hidden;
+    scroll-behavior: smooth;
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    background: linear-gradient(-45deg, #000000, #0f0f14, #131320, #0f0f1f, #410c52);
+    background-size: 400% 400%;
+    animation: gradient 2s ease infinite;
+}
+
+div.backimage {
+  position: fixed;
+  top: -50%;
+  left: -10%;
+  width: 200%;
+  height: 200%;
+}
+
+img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  margin: auto;
+  min-width: 0%;
+  min-height: 50%;
+}
+
+#particles-js {
+	position: fixed;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	z-index: 1;
+}
+
+#mainform {
+	position: relative;
+	z-index: 2;
+}
+
+
+
+
+
+
+.button {
+  display: block;
+  position: relative;
+  text-align: center;
+  z-index: 0;
+  border-radius: 50px;
+  max-width: 363px;
+  max-height: 46px;
+  border-radius: 30px;
+  overflow: hidden;
+  padding: 1rem 2rem;
+}
+
+.button::before {
+  content: '';
+  position: absolute;
+  z-index: -2;
+  left: 50%;
+  top: 50%;
+  width: 400px;
+  height: 400px;
+  border-radius: 30px;
+  background-repeat: no-repeat;
+  background-size: 50% 50%, 50% 50%;
+  background-position: 0 0, 100% 0, 100% 100%, 0 100%;
+  background-image: linear-gradient(#550d5f, #550d5f), linear-gradient(#550d5f, #550d5f), linear-gradient(#a31fb6, #a31fb6), linear-gradient(#a31fb6, #a31fb6);
+  transform: translate(-50%, -50%) rotate(11deg);
+  transition: transform .7s cubic-bezier(1, 0, 0, 1);
+}
+
+.button:hover::before {
+  transform: translate(-50%, -50%) rotate(191deg);
+}
+
+.button::after {
+  content: '';
+  position: absolute;
+  z-index: -1;
+  left: 3px;
+  top: 3px;
+  width: calc(100% - 6px);
+  height: calc(100% - 6px);
+  background: linear-gradient(#60276f, #77258d, #9c1abe);
+  border-radius: 100px;
+}
+
+.form {
+  background-clip: padding-box;
+  border: 15px solid rgba(0, 0, 0, 0.3);
+  border-radius: 30px;
+  margin: 20px auto;
+  padding: 0px;
+  text-align: center;
+  width: 220px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
