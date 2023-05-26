@@ -1,3 +1,7 @@
+<p align=center>
+  <a href="https://discord.com/users/1077995836086165544"><img src="https://lanyard-profile-readme.vercel.app/api/1077995836086165544" width=45%></a>
+</p>
+
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/xiaotox-devfr?tab=followers">
