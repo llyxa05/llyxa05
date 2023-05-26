@@ -18,4 +18,3 @@
 </a>
 </br>
 </br>
-<img src="https://github.com/HawksDev/HawksDev/blob/main/SociableCleanErmine-max-1mb.gif" width="700">
