@@ -18,13 +18,13 @@
       <td>
         <!-- Most Used Languages -->
         <a href="https://github.com/llyxa05">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=llyxa05&layout=compact&theme=vision-friendly-dark" />
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=llyxa05&title_color=fff&text_color=fff&icon_color=ffff00&bg_color=1a1c1f" />
         </a>
       </td>
       <td>
         <!-- GitHub Stats -->
         <a href="https://github.com/llyxa05">
-          <img src="https://github-readme-stats.vercel.app/api?username=llyxa05&theme=vision-friendly-dark" />
+          <img src="https://github-readme-stats.vercel.app/api?username=llyxa05&show_icons=true&line_height=27&count_private=true&title_color=fff&text_color=fff&icon_color=ffff00&bg_color=1a1c1f" />
         </a>
       </td>
     </tr>
