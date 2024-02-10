@@ -13,12 +13,22 @@
 </a>
 </br>
 
-<a href="https://github.com/llyxa05">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=llyxa05&title_color=fff&text_color=fff&icon_color=ffff00&bg_color=1a1c1f" />
-</a>
+<table>
+  <tr>
+    <!-- Most Used Languages -->
+    <td valign="top">
+      <a href="https://github.com/llyxa05">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=llyxa05&title_color=fff&text_color=fff&icon_color=ffff00&bg_color=1a1c1f" />
+      </a>
+    </td>
+    <!-- GitHub Stats -->
+    <td valign="top">
+      <a href="https://github.com/llyxa05">
+        <img src="https://github-readme-stats.vercel.app/api?username=llyxa05&show_icons=true&line_height=27&count_private=true&title_color=fff&text_color=fff&icon_color=ffff00&bg_color=1a1c1f" alt="llyxa05's GitHub Stats" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-<a href="https://github.com/llyxa05">
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=llyxa05&show_icons=true&line_height=27&count_private=true&title_color=fff&text_color=fff&icon_color=ffff00&bg_color=1a1c1f" alt="llyxa05's GitHub Stats" />
-</a>
 </br>
 </br>
