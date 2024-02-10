@@ -18,7 +18,7 @@
       <td>
         <!-- Most Used Languages -->
         <a href="https://github.com/llyxa05">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=llyxa05&layout=compact&title_color=fff&text_color=fff&icon_color=ffff00&bg_color=1a1c1f" />
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=llyxa05&layout=donut&title_color=fff&text_color=fff&icon_color=ffff00&bg_color=1a1c1f" />
         </a>
       </td>
       <td>
