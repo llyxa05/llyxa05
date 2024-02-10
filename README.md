@@ -15,16 +15,16 @@
   
   <table>
     <tr>
-      <!-- Most Used Languages -->
-      <td valign="top">
+      <td>
+        <!-- Most Used Languages -->
         <a href="https://github.com/llyxa05">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=llyxa05&title_color=fff&text_color=fff&icon_color=ffff00&bg_color=1a1c1f" />
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=llyxa05&layout=compact&theme=vision-friendly-dark" />
         </a>
       </td>
-      <!-- GitHub Stats -->
-      <td valign="top">
+      <td>
+        <!-- GitHub Stats -->
         <a href="https://github.com/llyxa05">
-          <img src="https://github-readme-stats.vercel.app/api?username=llyxa05&show_icons=true&line_height=27&count_private=true&title_color=fff&text_color=fff&icon_color=ffff00&bg_color=1a1c1f" alt="llyxa05's GitHub Stats" />
+          <img src="https://github-readme-stats.vercel.app/api?username=llyxa05&theme=vision-friendly-dark" />
         </a>
       </td>
     </tr>
