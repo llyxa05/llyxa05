@@ -4,11 +4,11 @@
 
 ## &#x1f4c8; GitHub Stats
 
-<a href="https://github.com/xiaotox-devfr?tab=followers">
+<a href="https://github.com/llyxa05?tab=followers">
   <img src="https://img.shields.io/github/followers/llyxa05">
 </a>
 
-<a href="https://github.com/loTus04">
+<a href="https://github.com/llyxa05">
    <img src="https://komarev.com/ghpvc/?username=llyxa05">
 </a>
 </br>
